@@ -1,4 +1,4 @@
-.#include <SoftwareSerial.h>
+#include <SoftwareSerial.h>
 #include <WiFi.h>
 #include <SPI.h>
 #define USE_ARDUINO_INTERRUPTS true    // Set-up low-level interrupts for most acurate BPM math
